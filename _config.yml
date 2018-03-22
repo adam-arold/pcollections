@@ -1,0 +1,8 @@
+title: PCollections
+description: A Persistent Java Collections Library
+google_analytics: UA-7650612-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
