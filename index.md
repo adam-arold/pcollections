@@ -1,4 +1,4 @@
-[![Maven Central](https://img.shields.io/maven-central/v/org.pcollections/pcollections.svg)](https://maven-badges.herokuapp.com/maven-central/org.pcollections/pcollections/)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.pcollections/pcollections/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.pcollections/pcollections)
 [![Javadoc](https://www.javadoc.io/badge/org.pcollections/pcollections.svg)](https://www.javadoc.io/doc/org.pcollections/pcollections)
 
 ### Overview
